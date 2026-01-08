@@ -1,4 +1,4 @@
-<h1 align="center">Yoo Jerome Sheen Joseph</h1>
+<h1 align="center">Yoo i'm Jerome Sheen Joseph</h1>
 
 - I’m currently working on **Zindagi**
 
